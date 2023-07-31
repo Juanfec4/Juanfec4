@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
-- 🔭 I’m currently working on a [Workout Tracker](https://github.com/Juanfec4/yeah-buddy-front-end)
+- 🔭 I’m currently working on a [Workout Tracker](https://github.com/Juanfec4/yeah-buddy)
 
 - 🌱 I’m currently learning **Mongoose, Mongo DB (BACK-END) // Tailwind CSS (FRONT-END)**
 
