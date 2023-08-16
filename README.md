@@ -50,6 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Juanfec4/Juanfec4/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Juanfec4/Juanfec4/output/snake.svg"  media="(prefers-color-scheme: dark)" alt="Snake animation" />
 
 ###
