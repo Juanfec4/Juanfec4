@@ -13,7 +13,7 @@
   <a href="mailto:juanfelipecardenas4@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://juan-cardenas.dev/" target="_blank">
+  <a href="https://portfolio-site-juanfec4.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree logo"  />
   </a>
 </div>
