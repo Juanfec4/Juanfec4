@@ -50,6 +50,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Juanfec4/Juanfec4/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/juanfec4/juanfec4/blob/output/github-contribution-grid-snake.gif)
 ###
