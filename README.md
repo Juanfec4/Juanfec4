@@ -50,5 +50,4 @@
 
 ###
 
-![snake gif](https://github.com/juanfec4/juanfec4/blob/output/github-contribution-grid-snake.gif)
 ###
