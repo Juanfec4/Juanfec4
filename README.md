@@ -1,53 +1,52 @@
-<h2 align="center">Hi 👋! My name is Juan, I'm a developer based in Canada.</h2>
+# <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="35" height="35"></img> Juan Cardenas
 
-###
+`Developing cool projects, and learning. `
 
-<p align="left">🌱 I’m currently learning Mongoose, Mongo DB (BACK-END) // Tailwind CSS (FRONT-END)<br><br>💬 Ask me about React, Zustand & Redux</p>
+👋 I'm a Full-stack developer, deeply interested in Computer Science. I mostly build API's and SPAs. I'm currently on my final year at university. I also work part-time as a private research assistant developing web-applications for economic market simulation.
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/juan-cardenas-aa8a04258/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:juanfelipecardenas4@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://portfolio-site-juanfec4.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree logo"  />
-  </a>
-</div>
-
-###
+🏖️ When I'm not coding you can find me working-out, and traveling.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanfec4&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Juanfec4&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juanfec4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Juan_Cardenas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/juan-f-cardenas/)](https://linkedin.com/in/juan-f-cardenas/)
+  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABYUlEQVRYR2P838DA9EfIpoqBgSEbiCWAmB7gBdCSqSzvjrQx/p5kUwPkNNPDVix21IIc8JyOPkd3wwuQA/4PkO/B1o46gKIQ+K9syfBfzhAjBhmv72NgfHGDqJilyAH/TEIYGPS8MB1waC4D452jow4YDYHREBgNgdEQGAkhYBnNwKDpjFkXHJjJwHjvJA1CgJWTgYGdi4Hhy1sGBm4hhn8+1UBaENMBWzsYGF/eor4D/qvbM/y3jmdg+PGZgYGNm4GBiQnTkn9/GJiW5jEw/P5BfQf88yhlYJDSxGsw4/0zDIz7pxFlOWlNMk4+hn8RfcBGHBZfw6z79Z2BaVMjA8OnVzRwAK8owz/3IgYGPnHshgPTBeOBGQyMr+4SbTlpIQBWzczwX1ob2H1RY/jPKwLmM37/yMDw8g4D48OzDAx/f5NkOekOINl4whooahMSNp6wikHhgAHvmg1s53Sgu+cALdjaXR+GrGcAAAAASUVORK5CYII=&link=https://juan-cardenas.dev/)](https://juan-cardenas.dev/)
+  [![GitHub Badge](https://img.shields.io/badge/-Juanfec4-gray?style=flat-square&logo=github&logoColor=white&link=https://linkedin.com/in/juan-f-cardenas/)](https://linkedin.com/in/juan-f-cardenas/)
 </div>
 
-###
+<h2>Misc</h2>
+
+**🗺️Location:** `Toronto, CA`
+
+**💼Work:** `ESAR` `Crypto Coins`
+
+**📓Education:** `B.S Software Engineering (WGU)`
+
+**📝Currently Learning:** `Advanced Redux` `Spring Boot` `Web-sockets`
+
+**🏆Goals:** `Get accepted into OMSCS @ Georgia Tech` `Start a coding YouTube channel`
+
+**🌟Hobbies:** `Soccer` `Cooking` `Reading` `Playing games`
+
+<h2>Quick Facts</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+
+![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanfec4&show_icons=true&title_color=84cc16&icon_color=84cc16&text_color=9f9f9f&bg_color=151515&count_private=true)
+
+![Juan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfec4&show_icons=true&title_color=84cc16&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
+
 </div>
 
-###
+<h2>Skills</h2>
 
-###
+##### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py)](https://skillicons.dev)
+
+##### Front-end
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,react,redux,nextjs,tailwind)](https://skillicons.dev)
+
+##### Back-end
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongo)](https://skillicons.dev)
