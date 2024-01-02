@@ -13,6 +13,14 @@
   [![GitHub Badge](https://img.shields.io/badge/-Juanfec4-gray?style=flat-square&logo=github&logoColor=white&link=https://linkedin.com/in/juan-f-cardenas/)](https://linkedin.com/in/juan-f-cardenas/)
 </div>
 
+<div>
+
+### My current project:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanfec4&repo=chtR&show_owner=true&bg_color=151515&text_color=9f9f9f&title_color=84cc16)](https://github.com/juanfec4/chtR)
+
+</div>
+
 <h2>Misc</h2>
 
 **🗺️Location:** `Toronto, CA`
