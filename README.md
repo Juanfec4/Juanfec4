@@ -49,7 +49,7 @@
 
 ##### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,go)](https://skillicons.dev)
 
 ##### Front-end
 
@@ -57,4 +57,4 @@
 
 ##### Back-end
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mongo,redis,docker)](https://skillicons.dev)
