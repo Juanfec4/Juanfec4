@@ -15,26 +15,6 @@
 
 <div>
 
-### My current project:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=juanfec4&repo=chtR&show_owner=true&bg_color=151515&text_color=9f9f9f&title_color=84cc16)](https://github.com/juanfec4/chtR)
-
-</div>
-
-<h2>Misc</h2>
-
-**🗺️Location:** `Toronto, CA`
-
-**💼Work:** `ESAR` `Crypto Coins`
-
-**📓Education:** `B.S Software Engineering (WGU)`
-
-**📝Currently Learning:** `Advanced Redux` `Spring Boot` `Web-sockets`
-
-**🏆Goals:** `Get accepted into OMSCS @ Georgia Tech` `Start a coding YouTube channel`
-
-**🌟Hobbies:** `Soccer` `Cooking` `Reading` `Playing games`
-
 <h2>Quick Facts</h2>
 
 <div align="left">
