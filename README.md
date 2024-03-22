@@ -2,7 +2,10 @@
 
 `Developing cool projects, and learning. `
 
-👋 I'm a Full-stack developer, deeply interested in Computer Science. I mostly build API's and SPAs. I'm currently on my final year at university. I also work part-time as a private research assistant developing web-applications for economic market simulation.
+I specialize in developing Single-Page Applications on top of various front-end frameworks. In terms of
+technical skills, I am well-versed in JavaScript/TypeScript (ReactJs, NodeJs, NestJs, ExpressJS, and AngularJs), Redux,
+Git, and TailwindCSS. Leveraging a strong problem-solving mindset, I excel in optimizing performance and scalability,
+ensuring the delivery of efficient and seamless web solutions.
 
 🏖️ When I'm not coding you can find me working-out, and traveling.
 
