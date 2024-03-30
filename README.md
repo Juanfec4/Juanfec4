@@ -1,14 +1,5 @@
 # <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="35" height="35"></img> Juan Cardenas
 
-`Developing cool projects, and learning. `
-
-I specialize in developing Single-Page Applications on top of various front-end frameworks. In terms of
-technical skills, I am well-versed in JavaScript/TypeScript (ReactJs, NodeJs, NestJs, ExpressJS, and AngularJs), Redux,
-Git, and TailwindCSS. Leveraging a strong problem-solving mindset, I excel in optimizing performance and scalability,
-ensuring the delivery of efficient and seamless web solutions.
-
-🏖️ When I'm not coding you can find me working-out, and traveling.
-
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-Juan_Cardenas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/juan-f-cardenas/)](https://linkedin.com/in/juan-f-cardenas/)
