@@ -8,19 +8,11 @@
 
 <div>
 
-<h2>Quick Facts</h2>
-
 <div align="left">
 
 ![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanfec4&show_icons=true&title_color=84cc16&icon_color=84cc16&text_color=9f9f9f&bg_color=151515&count_private=true&rank_icon=github)
 
-![Juan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfec4&show_icons=true&title_color=84cc16&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
-
 </div>
-
-<h2>Skills</h2>
-
-##### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,go)](https://skillicons.dev)
 
