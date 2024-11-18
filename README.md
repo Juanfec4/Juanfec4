@@ -14,12 +14,3 @@
 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,go)](https://skillicons.dev)
-
-##### Front-end
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,react,redux,nextjs,tailwind)](https://skillicons.dev)
-
-##### Back-end
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mongo,redis,docker)](https://skillicons.dev)
