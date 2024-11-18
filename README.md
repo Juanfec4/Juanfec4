@@ -3,7 +3,6 @@
 <div align="center">
   
   [![Linkedin Badge](https://img.shields.io/badge/-Juan_Cardenas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/juan-f-cardenas/)](https://linkedin.com/in/juan-f-cardenas/)
-  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABYUlEQVRYR2P838DA9EfIpoqBgSEbiCWAmB7gBdCSqSzvjrQx/p5kUwPkNNPDVix21IIc8JyOPkd3wwuQA/4PkO/B1o46gKIQ+K9syfBfzhAjBhmv72NgfHGDqJilyAH/TEIYGPS8MB1waC4D452jow4YDYHREBgNgdEQGAkhYBnNwKDpjFkXHJjJwHjvJA1CgJWTgYGdi4Hhy1sGBm4hhn8+1UBaENMBWzsYGF/eor4D/qvbM/y3jmdg+PGZgYGNm4GBiQnTkn9/GJiW5jEw/P5BfQf88yhlYJDSxGsw4/0zDIz7pxFlOWlNMk4+hn8RfcBGHBZfw6z79Z2BaVMjA8OnVzRwAK8owz/3IgYGPnHshgPTBeOBGQyMr+4SbTlpIQBWzczwX1ob2H1RY/jPKwLmM37/yMDw8g4D48OzDAx/f5NkOekOINl4whooahMSNp6wikHhgAHvmg1s53Sgu+cALdjaXR+GrGcAAAAASUVORK5CYII=&link=https://juan-cardenas.dev/)](https://juan-cardenas.dev/)
   [![GitHub Badge](https://img.shields.io/badge/-Juanfec4-gray?style=flat-square&logo=github&logoColor=white&link=https://linkedin.com/in/juan-f-cardenas/)](https://linkedin.com/in/juan-f-cardenas/)
 </div>
 
